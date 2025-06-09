@@ -1,3 +1,5 @@
+package chapter8;
+
 public class Hiro {
     String name;
     int hp;
